@@ -1,4 +1,4 @@
-Trying to Build My First Circuit in LTspice
+#Trying to Build My First Circuit in LTspice
 For one of my engineering projects, I needed to create and simulate a simple circuit using LTspice. Since this was my first time using this software using a schematic rather than a netlist, my goal was to build a basic circuit with a voltage source and a resistor, then observe the voltage and current values.
 Initial Interaction
 When I first opened LTspice, I was presented with a blank workspace and a toolbar filled with small, unclear icons.
